@@ -1,0 +1,13 @@
+customer key:
+FKHmxNRpsMzbQyAl1FaSpWLi6
+
+customer secret
+XPKpF30Wk6kRyap0IN39HUJmR8HbAi507IZCc2lztuRqWe7p9i
+
+
+access token:
+129144970-msweRpYdfH8f5hhgU84z7IKu84MKDqBsSErlAVoz
+
+access token secret:
+Vxm9StWQMFBz0s8mzrJif1DmB1v3fCzikSBtbgMzHC4L4
+
